@@ -16,14 +16,15 @@
     "pipeline",
     "sigh-plugin"
   ],
-  "author": "Flaise <Flaise.Saffron@gmail.com>",
+  "author": "Flaise <x.Flaise@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Flaise/sigh-riot/issues"
   },
   "dependencies": {
     "lodash": "^3.10.1",
-    "sigh-core": "^0.11.8"
+    "sigh-core": "^0.11.8",
+    "riot": "2.2.4"
   },
   "devDependencies": {
     "babel": "^5.8.23",
